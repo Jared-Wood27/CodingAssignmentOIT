@@ -4,7 +4,7 @@ Repository for the given programming assignment!
 Please place all your work in a public GitHub repo.  It must include the following to be considered:
 
 1 - The runtime/executable version of your program.
-	this is a.exe
+this is a.exe
 
 2 - The source code of your program and everything we need to compile and run it.
 	Source code = RN_To_D.c
