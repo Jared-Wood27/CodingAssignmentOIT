@@ -27,13 +27,15 @@ included previously in section 2.
 5 - A note about the amount of time you spent on the challenge.
 
 I would say I had 2 times, one when I completed the bare minimum and one after I added a somewhat messy but functional interactive loop that allows for users to input values and use the functions on the fly
+
 Total time for the basic project was 1 hour and 20 minutes
+
 Total time for the added interactivity was about 3 hours and 0 minutes.
 
 6 - Whatever other documentation or comments you wish to include.
 
 This was fun! 
-I hope the interactive loop might count for something, but if not I am confident at least that my basic functions are working properly!
+I hope the interactive loop might count for something, but if not, I am confident at least that my basic functions are working properly!
 One last note is that I didn't check for all the Roman Numeral rules when it comes to users entering in a Roman Numeral string as this would be rather complex and I already went above what I think was originally required!
 
 Thanks again!
