@@ -12,7 +12,7 @@ this is a.exe
 Source code = RN_To_D.c
 Other programs needed include MinGW installation to run C++ code through windows.
 MinGW Installation site = https://sourceforge.net/projects/mingw/
-Video Tutorial = https://www.youtube.com/watch?v=WWTocqPrzMk (Note I coded in c++, so the command he used "gcc filename" is replaced with g++ filename
+Video Tutorial = https://www.youtube.com/watch?v=WWTocqPrzMk (Note I coded in c++, so the command he used to run his C code "gcc filename" is replaced with "g++ filename" to run c++ code
 
 3 - All your notes and documentation. If your notes are on paper take a clear picture of them and include them in the GitHub repo. We want to see your thinking as well. This is especially important if you do not finish all the coding.
 	
